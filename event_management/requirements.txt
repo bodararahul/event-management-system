@@ -1,0 +1,9 @@
+django>=4.2
+djangorestframework>=3.14
+djangorestframework-simplejwt
+python-dotenv
+drf-yasg
+pytest
+pytest-django
+psycopg2-binary
+
